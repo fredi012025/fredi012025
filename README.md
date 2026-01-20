@@ -3,7 +3,7 @@
 :computer: **administrador de sistemas**
 :pencil: **Desarrollador web**
 :eyeglasses: **Geek empedernido** (¿aún se usa geek?)
-:encoming_automobile: **Fans de los Honda Civic**
+:oncoming_automobile: **Fans de los Honda Civic**
 :Family: **¡Feliz agradecido con Dios!**
 
 ### Vias de contacto
