@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola soy Fredi J. 👋
 
 :computer: **administrador de sistemas**
 :pencil: **Desarrollador web**
